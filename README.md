@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fauzi Ferdiansyah</h1>
 <h3 align="left">Experienced in Software Engineer & Front-end Developer <img align="right" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=Profile%20views&color=0e75b6&style=flat-square" alt="fauziferdiansyah" /></h3>
+<p>Skilled in <b>ReactJS/NextJs</b>, <b>Laravel</b>, <b>NodeJs</b>, <b>Kotlin</b>, <b>Sql</b>, <b>Git</b>, <b>API</b> <b>Photoshop</b> & <b>etc</b>. Loves developing contribute and complete something challenging and fun. Have a high passion for website design and graphic design. Enthusiastic about new things, able to work in a team, fully responsible and reliable. </p>
 
 
 <h4 align="left"><strong>Medium Latest Blog</strong></h4>
