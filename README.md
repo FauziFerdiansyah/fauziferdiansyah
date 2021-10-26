@@ -4,7 +4,8 @@
 
 
 <h4 align="left"><strong>Medium Latest Blog</strong></h4>
-<p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p>
+<!-- <p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p> -->
+<p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=3&bg=272822&text=white" alt="Recent Article"></p>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=compact&theme=monokai" alt="fauziferdiansyah" /></p>
 
 <p align="left">
