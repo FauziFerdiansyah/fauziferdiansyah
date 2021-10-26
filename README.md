@@ -5,7 +5,7 @@
 
 <h4 align="left"><strong>Medium Latest Blog</strong></h4>
 <p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=compact" alt="fauziferdiansyah" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=compact&theme=monokai" alt="fauziferdiansyah" /></p>
 
 <p align="left">
   <h4>⚡ Connect with me on</h4>
