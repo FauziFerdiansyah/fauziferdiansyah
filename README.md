@@ -19,7 +19,7 @@
 <p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=1&bg=272822&text=white" alt="Recent Article"></p>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=compact&theme=monokai" alt="fauziferdiansyah" />
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=11276325&theme=dark" />
+<!-- <img src="https://github-readme-stackoverflow.vercel.app/?userID=11276325&theme=dark" /> -->
 
 <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=Profile%20visitors&color=0e75b6&style=flat-square" alt="fauziferdiansyah" />
