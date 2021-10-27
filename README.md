@@ -20,7 +20,7 @@
 <p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=3&bg=0d1117&text=white" alt="Recent Article"></p>
 <hr>
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/NextJs-92%25-brightgreen" alt="ReactJS/NextJs">
+  <img align="center" src="https://img.shields.io/badge/NextJs-80%25-brightgreen" alt="ReactJS/NextJs">
   <img align="center" src="https://img.shields.io/badge/Laravel-84%25-b9b411" alt="Laravel">
   <img align="center" src="https://img.shields.io/badge/NodeJs-73%25-118ab9" alt="NodeJs">
   <img align="center" src="https://img.shields.io/badge/Kotlin-26%25-b911ac" alt="Kotlin">
