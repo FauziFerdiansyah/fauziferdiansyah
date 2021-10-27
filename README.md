@@ -16,9 +16,9 @@
 </p>
 <h4 align="left"><strong>📰 Medium.com Latest Article</strong></h4>
 <!-- <p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p> -->
-<p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=1&bg=272822&text=white" alt="Recent Article"></p>
+<p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=3&bg=0d1117&text=white" alt="Recent Article"></p>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=compact&theme=monokai" alt="fauziferdiansyah" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziferdiansyah&show_icons=true&locale=en&layout=default&theme=monokai" alt="fauziferdiansyah" /> -->
 <!-- <img src="https://github-readme-stackoverflow.vercel.app/?userID=11276325&theme=dark" /> -->
 
 <!--<p align="center">
