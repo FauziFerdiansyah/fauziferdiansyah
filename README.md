@@ -26,6 +26,9 @@
   <img align="center" src="https://img.shields.io/badge/Kotlin-26%25-b911ac" alt="Kotlin">
   <img align="center" src="https://img.shields.io/badge/Sql-85%25-11b945" alt="Sql">
   <img align="center" src="https://img.shields.io/badge/APi-75%25-b91140" alt="APi">
+  <img align="center" src="https://img.shields.io/badge/Html & Css-90%25-b91140" alt="HTML CSS">
+  <img align="center" src="https://img.shields.io/badge/Wordpress-67%25-b91140" alt="Wordpress">
+  <img align="center" src="https://img.shields.io/badge/Go-75%25-b91140" alt="Golang">
   <img align="center" src="https://img.shields.io/badge/Graphic Design-87%25-b9116e" alt="Graphic Design">
   <img align="center" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=🌱 Profile%20views&color=0e75b6" alt="fauziferdiansyah" />
 </p>
