@@ -10,7 +10,7 @@
   <a target="_blank" href="https://www.instagram.com/fauzi_ferdiansyah18/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a target="_blank" href="https://t.me/fauzi_ferdiansyah"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></a>
   <a target="_blank" href="https://codepen.io/fauziferdiansyah"><img height="25" src="https://img.shields.io/badge/Codepen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" ></a>
-  <a target="_blank" href="https://github.com/FauziFerdiansyah"><img height="25" src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" ></a>
+  <a target="_blank" href="https://github.com/FauziFerdiansyah"><img height="25" src="https://img.shields.io/badge/GitHub-eeeeee?style=for-the-badge&logo=github&logoColor=black" ></a>
   <a target="_blank" href="https://id.pinterest.com/fauzi_ferdiansyah/"><img height="25" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" ></a>
   <a target="_blank" href="https://discordapp.com/users/374527573784395777"><img height="25" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
 </p>
