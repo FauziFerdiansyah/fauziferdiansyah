@@ -15,9 +15,9 @@
   </br>
   <div>🌐 <a href="https://fauziferdiansyah.xyz/">https://fauziferdiansyah.xyz/</a></div>
 </p>
-<h4 align="left"><strong>📰 Medium.com Latest Article</strong></h4>
+<!-- <h4 align="left"><strong>📰 Medium.com Latest Article</strong></h4> -->
 <!-- <p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p> -->
-<p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=3&bg=0d1117&text=white" alt="Recent Article"></p>
+<!-- <p><img src="https://github-readme-medium.vercel.app/?username=fauzifrd&limit=3&bg=0d1117&text=white" alt="Recent Article"></p> -->
 <hr>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/NextJs-80%25-brightgreen" alt="ReactJS/NextJs">
