@@ -1,7 +1,16 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fauzi Ferdiansyah</h1>
-<h3 align="left">Experienced in Software Engineer & Front-end Developer <img align="right" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=Profile%20views&color=0e75b6&style=flat-square" alt="fauziferdiansyah" /></h3>
-<p>Skilled in <b>ReactJS/NextJs</b>, <b>Laravel</b>, <b>NodeJs</b>, <b>Kotlin</b>, <b>Sql</b>, <b>Git</b>, <b>API</b> <b>Photoshop</b> & <b>etc</b>. Loves developing contribute and complete something challenging and fun. Have a high passion for website design and graphic design. Enthusiastic about new things, able to work in a team, fully responsible and reliable. </p>
-
+<h3 align="left">Experienced in Software Engineer & Front-end Developer</h3>
+<p>Skilled in <b>ReactJS/NextJs</b>, <b>Laravel</b>, <b>NodeJs</b>, <b>Python</b>, <b>Kotlin</b>, <b>Sql</b>, <b>Git</b>, <b>APi</b> <b>Graphic Design</b> & <b>etc</b>. Loves developing contribute and complete something challenging and fun. Have a high passion for website design and graphic design. Enthusiastic about new things, able to work in a team, fully responsible and reliable. </p>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/NextJs-92%25-brightgreen" alt="ReactJS/NextJs">
+  <img align="center" src="https://img.shields.io/badge/Laravel-84%25-brightgreen" alt="Laravel">
+  <img align="center" src="https://img.shields.io/badge/NodeJs-73%25-brightgreen" alt="NodeJs">
+  <img align="center" src="https://img.shields.io/badge/Kotlin-26%25-brightgreen" alt="Kotlin">
+  <img align="center" src="https://img.shields.io/badge/Sql-85%25-brightgreen" alt="Sql">
+  <img align="center" src="https://img.shields.io/badge/APi-75%25-brightgreen" alt="APi">
+  <img align="center" src="https://img.shields.io/badge/Graphic Design-87%25-brightgreen" alt="Graphic Design">
+  <img align="center" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=🌱 Profile%20views&color=0e75b6" alt="fauziferdiansyah" />
+</p>
 <p align="left">
   <h4>⚡ Connect with me on</h4>
   <a target="_blank" href="https://www.linkedin.com/in/fauzi-ferdiansyah/
