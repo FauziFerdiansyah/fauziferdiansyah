@@ -3,12 +3,12 @@
 <p>Skilled in <b>ReactJS/NextJs</b>, <b>Laravel</b>, <b>NodeJs</b>, <b>Python</b>, <b>Kotlin</b>, <b>Sql</b>, <b>Git</b>, <b>APi</b> <b>Graphic Design</b> & <b>etc</b>. Loves developing contribute and complete something challenging and fun. Have a high passion for website design and graphic design. Enthusiastic about new things, able to work in a team, fully responsible and reliable. </p>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/NextJs-92%25-brightgreen" alt="ReactJS/NextJs">
-  <img align="center" src="https://img.shields.io/badge/Laravel-84%25-brightgreen" alt="Laravel">
-  <img align="center" src="https://img.shields.io/badge/NodeJs-73%25-brightgreen" alt="NodeJs">
-  <img align="center" src="https://img.shields.io/badge/Kotlin-26%25-brightgreen" alt="Kotlin">
-  <img align="center" src="https://img.shields.io/badge/Sql-85%25-brightgreen" alt="Sql">
-  <img align="center" src="https://img.shields.io/badge/APi-75%25-brightgreen" alt="APi">
-  <img align="center" src="https://img.shields.io/badge/Graphic Design-87%25-brightgreen" alt="Graphic Design">
+  <img align="center" src="https://img.shields.io/badge/Laravel-84%25-b9b411" alt="Laravel">
+  <img align="center" src="https://img.shields.io/badge/NodeJs-73%25-118ab9" alt="NodeJs">
+  <img align="center" src="https://img.shields.io/badge/Kotlin-26%25-b911ac" alt="Kotlin">
+  <img align="center" src="https://img.shields.io/badge/Sql-85%25-11b945" alt="Sql">
+  <img align="center" src="https://img.shields.io/badge/APi-75%25-b91140" alt="APi">
+  <img align="center" src="https://img.shields.io/badge/Graphic Design-87%25-b9116e" alt="Graphic Design">
   <img align="center" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=🌱 Profile%20views&color=0e75b6" alt="fauziferdiansyah" />
 </p>
 <p align="left">
