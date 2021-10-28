@@ -29,6 +29,7 @@
   <img align="center" src="https://img.shields.io/badge/Html & Css-90%25-5211b9" alt="HTML CSS">
   <img align="center" src="https://img.shields.io/badge/WP-67%25-11b9b9" alt="Wordpress">
   <img align="center" src="https://img.shields.io/badge/Go-30%25-b9b411" alt="Golang">
+  <img align="center" src="https://img.shields.io/badge/SEO-76%25-a3010e" alt="SEO">
   <img align="center" src="https://img.shields.io/badge/Graphic Design-87%25-b9116e" alt="Graphic Design">
   <img align="center" src="https://komarev.com/ghpvc/?username=fauziferdiansyah&label=Profile%20views&color=0e75b6" alt="fauziferdiansyah" />
 </p>
