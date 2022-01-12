@@ -13,7 +13,7 @@
   <a target="_blank" href="https://id.pinterest.com/fauzi_ferdiansyah/"><img height="25" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" ></a>
   <a target="_blank" href="https://discordapp.com/users/374527573784395777"><img height="25" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
   </br>
-  <div>🌐 <a href="https://fauziferdiansyah.xyz/">https://fauziferdiansyah.xyz/</a></div>
+  My Web is under construction.
 </p>
 <!-- <h4 align="left"><strong>📰 Medium.com Latest Article</strong></h4> -->
 <!-- <p align="left"><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fauzifrd/0" alt="Recent Article 0"></p> -->
