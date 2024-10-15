@@ -56,3 +56,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"></h1>
+
+<div align="center">
+  <img  src="https://github.com/LuminetteBourgeons/LuminetteBourgeons/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
